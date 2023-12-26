@@ -2,7 +2,7 @@ import React from 'react';
 import { GET_ATHORS } from './cms';
 import { useQuery } from '@apollo/client';
 import { Link } from 'react-router-dom/cjs/react-router-dom.min';
-import styles from '.styleses//Athour.module.css';
+import styles from '.styleses/Athour.module.css';
 import  spinnergi  from './spinnergif.gif';
 
 const Author = () => {
