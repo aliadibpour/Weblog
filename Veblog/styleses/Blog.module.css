@@ -1,0 +1,16 @@
+.card {
+    margin-right: 1rem;
+    margin-bottom: 1rem;
+    background-color: rgb(244, 240, 240);
+    padding: 13px;
+    border-radius: 10px;
+}
+.card img {
+    border-radius: 5px;
+}
+.card h5 {
+    margin-top: 20px;
+}
+.paragh {
+    margin-top: 10px;
+}

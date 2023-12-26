@@ -1,0 +1,92 @@
+.div {
+    height: 100%;
+}
+.pr {
+    background-color: rgba(211, 211, 211, 0.871);
+    width: 50rem;
+    padding: 20px;
+    border-radius: 10px;
+    position: relative;
+    top: 3rem;
+    text-align: center;
+    left: 16rem; 
+    height: 100%;
+}
+.pr img {
+    border-radius: 35px;
+}
+.para{
+    color: rgb(63, 61, 58);
+    margin-top: 3rem;
+    position: relative;
+    left: 9rem;
+    width: 30rem;
+    background-color: rgb(196, 196, 196);
+    border-radius: 10px;
+    padding: 15px;
+    font-size: large;
+}
+.ps {
+    background-color: rgb(229, 229, 229);
+    display: inline-block;
+    width: 17rem;
+    padding: 10px;
+    position: relative;
+    border-radius: 10px;
+    margin-bottom: 1.5rem;
+    text-align: right;
+    margin-top: .8rem;
+}
+.ps img{
+    width: 15rem;
+    border-radius: 15px;
+}
+@font-face {
+    font-family: 'yekan';
+    src: url(../B_Yekan/B_Yekan/Yekan.ttf);
+}
+.btn button {
+    margin-top: 3rem;
+    font-family: 'yekan';
+}
+@media screen and (max-width: 480px) {
+    .pr {
+        background-color: rgba(211, 211, 211, 0.871);
+        width: 20rem;
+        padding: 20px;
+        border-radius: 10px;
+        position: relative;
+        top: 3rem;
+        text-align: center;
+        left: 2.4rem;
+        height: 100%;
+    }
+    .pr img {
+        border-radius: 35px;
+        width: 15rem;
+    }
+    .para{
+        color: rgb(63, 61, 58);
+        margin-top: 3rem;
+        position: relative;
+        left: -.5rem;
+        width: 30rem;
+        background-color: rgb(196, 196, 196);
+        border-radius: 10px;
+        padding: 15px;
+        width: 18rem;
+        font-size: large;
+    }
+    .ps {
+        background-color: rgb(229, 229, 229);
+        display: inline-block;
+        width: 17rem;
+        padding: 10px;
+        position: relative;
+        right: .8rem;
+        border-radius: 10px;
+        margin-bottom: 1.5rem;
+        text-align: right;
+        margin-top: 2rem;
+    }
+}

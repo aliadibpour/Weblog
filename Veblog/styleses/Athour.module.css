@@ -1,0 +1,13 @@
+.card {
+    position: relative;
+    left: 70rem;
+    top: 3rem;
+}
+.card div {
+    background-color: white;
+    width: 13rem;
+    text-decoration: none;
+}
+.card Link {
+    text-decoration: none;
+}

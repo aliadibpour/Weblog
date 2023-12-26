@@ -1,0 +1,16 @@
+@font-face{
+    font-family: 'vazir';
+    src: url(../B_Yekan/B_Yekan/Yekan.ttf);
+}
+@font-face {
+    font-family: 'yekan';
+    src: url(../B_Yekan/B_Yekan/Yekan.ttf);
+}
+.app p{
+    font-family: 'yekan';
+    font-size: 15px;
+    font-weight: 600;
+}
+.app h5{
+    font-family: 'yekan';
+}

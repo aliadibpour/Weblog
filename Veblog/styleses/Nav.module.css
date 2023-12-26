@@ -1,0 +1,52 @@
+@font-face{
+    font-family: 'vazir';
+    src: url(../B_Yekan/B_Yekan/Yekan.ttf);
+}
+.user {
+    color: rgb(242, 242, 242);
+    text-decoration: none;
+    background-color: rgb(12, 12, 99);
+    padding: 8px;
+    border-radius: 5px;
+    margin-left: 3rem;
+}
+.user {
+    font-family: 'vazir';
+}
+.post {
+    color: rgb(242, 242, 242);
+    text-decoration: none;
+    background-color: rgb(99, 12, 12);
+    padding: 8px;
+    border-radius: 5px;
+    margin-left: 2rem;
+    font-family: 'vazir';
+    font-size: smaller;
+}
+.post a{
+    font-family: 'vazir';
+}
+.login {
+    color: white;
+    display: inline-block;
+    text-decoration: none;
+    background-color: rgb(9, 9, 91);
+    padding: 2px;
+    border-radius: 5px;
+    margin-left: 3rem;
+}
+.login a{
+    font-family: 'vazir';
+}
+.singin{
+    color: white;
+    display: inline-block;
+    text-decoration: none;
+    background-color: rgb(9, 91, 27);
+    padding: 2px;
+    border-radius: 5px;
+    margin-left: 2rem;
+}
+.singin a {
+    font-family: 'vazir';
+}

@@ -1,0 +1,46 @@
+@font-face{
+    font-family: 'vazir';
+    src: url(../B_Yekan/B_Yekan/Yekan.ttf);
+}
+.sing{
+    height: 43rem;
+}
+.sing form {
+    width: 15rem;
+    background-color: rgba(248, 242, 242, 0.652);
+    margin-left: 33rem;
+    position: relative;
+    top: 10rem;
+    padding: 40px;
+    border-radius: 10px;
+}
+.sing label{
+    font-family: 'vazir';
+}
+.sing button {
+    font-family: 'vazir';
+}
+@media screen and (max-width: 480px) {
+    @font-face{
+        font-family: 'vazir';
+        src: url(../B_Yekan/B_Yekan/Yekan.ttf);
+    }
+    .sing{
+        height: 53rem;
+    }
+    .sing form {
+        width: 15rem;
+        background-color: rgba(248, 242, 242, 0.652);
+        margin-left: 5rem;
+        position: relative;
+        top: 13rem;
+        padding: 40px;
+        border-radius: 10px;
+    }
+    .sing label{
+        font-family: 'vazir';
+    }
+    .sing button {
+        font-family: 'vazir';
+    }
+}

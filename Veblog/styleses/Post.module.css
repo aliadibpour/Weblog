@@ -1,0 +1,42 @@
+.div form {
+    width: 25rem;
+    background-color: rgb(242, 242, 242);
+    padding: 20px;
+    border-radius: 10px;
+    position: relative;
+    top: 5rem;
+    left: 30rem;
+}
+.div {
+    height: 45rem;
+}
+@font-face {
+    font-family: 'yekan';
+    src: url(../B_Yekan/B_Yekan/Yekan.ttf);
+}
+.div label {
+    font-family: 'yekan';
+    font-weight: 200;
+}
+@media screen and (max-width: 480px) {
+    .div form {
+        width: 20rem;
+        background-color: rgb(242, 242, 242);
+        padding: 20px;
+        border-radius: 10px;
+        position: relative;
+        top: 5rem;
+        left: 2.3rem;
+    }
+    .div {
+        height: 53rem;
+    }
+    @font-face {
+        font-family: 'yekan';
+        src: url(B_Yekan/B_Yekan/Yekan.ttf);
+    }
+    .div label {
+        font-family: 'yekan';
+        font-weight: 200;
+    }
+}
